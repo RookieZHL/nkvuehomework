@@ -19,22 +19,22 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Upload Code or Project
-'''
+```
 git add .
-'''
+```
 then
-'''
+```
 git status
-'''
+```
 then
-'''
+```
 git commmit -m "xxxx"
-'''
+```
 then
-'''
+```
 git remote add origin youremail@eg.com
-'''
+```
 final
-'''
+```
 git push -u origin main
-'''
+```
