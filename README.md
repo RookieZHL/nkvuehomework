@@ -34,7 +34,11 @@ then
 ```
 git remote add origin youremail@eg.com
 ```
+then
+```
+git pull --rebase origin master/main
+```
 final
 ```
-git push -u origin main
+git push -u origin main/master
 ```
